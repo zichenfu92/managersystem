@@ -1,0 +1,12 @@
+roles:
+  maps:
+    fuzichen:
+      userId: 1
+      accountName: fuzichen
+      role: admin
+    linyixi:
+      userId: 2
+      accountName: linyixi
+      role: user
+
+
